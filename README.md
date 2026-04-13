@@ -14,8 +14,7 @@ This project was developed to simulate how **Zalando SE's** operating profit (EB
 * **Sensitivity:** Fulfillment remains the highest cost driver (~23% of revenue), making it the primary lever for margin protection during downturns.
 
 ## 📁 Files in this Repository
-* `Zalando_Analysis_2024.xlsx`: The full interactive model.
-* `Dashboard_Preview.pdf`: A high-level summary for quick management review.
+* `Zalando_Analysis_2024.xlsx`: The full interactive model - in progress.
 
 ---
 **Contact:** [Shweta Bhingare] | [www.linkedin.com/in/shweta-bhingare]
